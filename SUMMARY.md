@@ -31,3 +31,6 @@
   * [4Sum(to be cont)](leetcode/two-pointer/4sum.md)
 * [Depth First Search](leetcode/depth-first-search/README.md)
   * [Binary Tree Inorder Traversal](leetcode/depth-first-search/binary-tree-inorder-traversal.md)
+  * [Validate Binary Search Tree](leetcode/depth-first-search/validate-binary-search-tree.md)
+  * [Populating Next Right Pointers in Each Node](leetcode/depth-first-search/populating-next-right-pointers-in-each-node.md)
+  * [Surrounded Regions](leetcode/depth-first-search/surrounded-regions.md)
