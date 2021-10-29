@@ -38,3 +38,7 @@
   * [Surrounded Regions](leetcode/depth-first-search/surrounded-regions.md)
 * [Breadth First Search](leetcode/breadth-first-search/README.md)
   * [Binary Tree Level Order Traversal](leetcode/breadth-first-search/binary-tree-level-order-traversal.md)
+
+***
+
+* [Quick Sort](quick-sort.md)
