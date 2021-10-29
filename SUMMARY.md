@@ -39,8 +39,9 @@
   * [Lowest Common Ancestor of Deepest Leaves](leetcode/depth-first-search/lowest-common-ancestor-of-deepest-leaves.md)
 * [Breadth First Search](leetcode/breadth-first-search/README.md)
   * [Binary Tree Level Order Traversal](leetcode/breadth-first-search/binary-tree-level-order-traversal.md)
-  * [Binary Tree Zigzag Level Order Traversal](leetcode/breadth-first-search/binary-tree-zigzag-level-order-traversal.md)
 
 ***
 
+* [Rotate Image](rotate-image/README.md)
+  * [Binary Tree Zigzag Level Order Traversal](rotate-image/binary-tree-zigzag-level-order-traversal.md)
 * [Quick Sort](quick-sort.md)
