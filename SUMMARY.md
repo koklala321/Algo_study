@@ -9,7 +9,9 @@
 
 * [Backtracking](leetcode/backtracking/README.md)
   * [Permutation](leetcode/backtracking/permutation.md)
+  * [Permutations II](leetcode/backtracking/permutations-ii.md)
   * [Letter Combinations of a Phone Number](leetcode/backtracking/letter-combinations-of-a-phone-number.md)
+  * [Subset](leetcode/backtracking/subset.md)
 * [binary search](leetcode/binary-search/README.md)
   * [Search in Rotated Sorted Array](leetcode/binary-search/search-in-rotated-sorted-array.md)
   * [Sqrt(x)](leetcode/binary-search/sqrt-x.md)
