@@ -39,6 +39,7 @@
   * [Populating Next Right Pointers in Each Node](leetcode/depth-first-search/populating-next-right-pointers-in-each-node.md)
   * [Surrounded Regions](leetcode/depth-first-search/surrounded-regions.md)
   * [Lowest Common Ancestor of Deepest Leaves](leetcode/depth-first-search/lowest-common-ancestor-of-deepest-leaves.md)
+  * [Word Search](leetcode/depth-first-search/word-search.md)
 * [Breadth First Search](leetcode/breadth-first-search/README.md)
   * [Binary Tree Level Order Traversal](leetcode/breadth-first-search/binary-tree-level-order-traversal.md)
   * [Binary Tree Zigzag Level Order Traversal](leetcode/breadth-first-search/binary-tree-zigzag-level-order-traversal.md)
