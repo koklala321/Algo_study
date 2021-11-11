@@ -5,6 +5,8 @@
 
 ## Data Structure <a href="leetcode-sruff" id="leetcode-sruff"></a>
 
+* [Tries](leetcode-sruff/tries.md)
+
 ## LeetCode
 
 * [Backtracking](leetcode/backtracking/README.md)
