@@ -6,6 +6,11 @@
 ## Data Structure <a href="leetcode-sruff" id="leetcode-sruff"></a>
 
 * [Tries](leetcode-sruff/tries.md)
+* [Stack](leetcode-sruff/stack/README.md)
+  * [Next greater element](leetcode-sruff/stack/next-greater-element.md)
+  * [Daily temperature](leetcode-sruff/stack/daily-temperature.md)
+  * [Asteroid Collision](leetcode-sruff/stack/asteroid-collision.md)
+  * [Valid Parentheses](leetcode-sruff/stack/valid-parentheses.md)
 
 ## LeetCode
 
@@ -42,12 +47,16 @@
   * [Surrounded Regions](leetcode/depth-first-search/surrounded-regions.md)
   * [Lowest Common Ancestor of Deepest Leaves](leetcode/depth-first-search/lowest-common-ancestor-of-deepest-leaves.md)
   * [Word Search](leetcode/depth-first-search/word-search.md)
+  * [Sum Root to Leaf Numbers](leetcode/depth-first-search/sum-root-to-leaf-numbers.md)
 * [Breadth First Search](leetcode/breadth-first-search/README.md)
   * [Binary Tree Level Order Traversal](leetcode/breadth-first-search/binary-tree-level-order-traversal.md)
   * [Binary Tree Zigzag Level Order Traversal](leetcode/breadth-first-search/binary-tree-zigzag-level-order-traversal.md)
+* [Dynamic programming](leetcode/dynamic-programming/README.md)
+  * [Longest common subsequence](leetcode/dynamic-programming/longest-common-subsequence.md)
+  * [Unique path](leetcode/dynamic-programming/unique-path.md)
+  * [Unique Path II](leetcode/dynamic-programming/unique-path-ii.md)
 
 ***
 
 * [Rotate Image](rotate-image.md)
 * [Quick Sort](quick-sort.md)
-* [Longest common subsequence](longest-common-subsequence.md)
