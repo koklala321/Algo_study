@@ -3,10 +3,11 @@
 * [Menu](README.md)
 * [changelog](changelog.md)
 
-## Data Structure <a href="leetcode-sruff" id="leetcode-sruff"></a>
+## Data Structure <a href="#leetcode-sruff" id="leetcode-sruff"></a>
 
 * [Tries](leetcode-sruff/tries.md)
 * [Stack](leetcode-sruff/stack/README.md)
+  * [Decode String](leetcode-sruff/stack/decode-string.md)
   * [Next greater element](leetcode-sruff/stack/next-greater-element.md)
   * [Daily temperature](leetcode-sruff/stack/daily-temperature.md)
   * [Asteroid Collision](leetcode-sruff/stack/asteroid-collision.md)
@@ -60,3 +61,5 @@
 
 * [Rotate Image](rotate-image.md)
 * [Quick Sort](quick-sort.md)
+* [Insertion Sort List](insertion-sort-list.md)
+* [Minimum Absolute Difference](minimum-absolute-difference.md)
