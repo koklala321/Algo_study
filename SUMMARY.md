@@ -12,6 +12,8 @@
   * [Daily temperature](leetcode-sruff/stack/daily-temperature.md)
   * [Asteroid Collision](leetcode-sruff/stack/asteroid-collision.md)
   * [Valid Parentheses](leetcode-sruff/stack/valid-parentheses.md)
+* [Heap](leetcode-sruff/heap/README.md)
+  * [The Skyline Problem](leetcode-sruff/heap/the-skyline-problem.md)
 
 ## LeetCode
 
@@ -35,12 +37,15 @@
   * [Roman to Integer](leetcode/hash/roman-to-integer.md)
   * [Two Sum](leetcode/hash/two-sum.md)
 * [Two Pointer](leetcode/two-pointer/README.md)
+  * [Middle of the Linked List](leetcode/two-pointer/middle-of-the-linked-list.md)
+  * [Delete the Middle Node of a Linked List](leetcode/two-pointer/delete-the-middle-node-of-a-linked-list.md)
   * [Remove Duplicates from Sorted Array](leetcode/two-pointer/remove-duplicates-from-sorted-array.md)
   * [Remove Duplicates from Sorted Array II](leetcode/two-pointer/remove-duplicates-from-sorted-array-ii.md)
   * [3Sum](leetcode/two-pointer/3sum.md)
   * [4Sum(to be cont)](leetcode/two-pointer/4sum.md)
 * [Depth First Search](leetcode/depth-first-search/README.md)
   * [Binary Tree Inorder Traversal](leetcode/depth-first-search/binary-tree-inorder-traversal.md)
+  * [Course Schedule II](leetcode/depth-first-search/course-schedule-ii.md)
   * [Symmetric Tree](leetcode/depth-first-search/symmetric-tree.md)
   * [Validate Binary Search Tree](leetcode/depth-first-search/validate-binary-search-tree.md)
   * [Maximum Depth of Binary Tree](leetcode/depth-first-search/maximum-depth-of-binary-tree.md)
